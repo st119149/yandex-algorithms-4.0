@@ -1,4 +1,5 @@
-Яндекс Алгоритмы 4.0
+# Тренировки по алгоритмам 4.0 от Яндекса
+![Тренировки](https://habrastorage.org/webt/6p/jo/em/6pjoemykizra4dvuwrljltlnfoe.jpeg)
 
 ## Разминка
 * ### [A. Не минимум на отрезке](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
@@ -21,21 +22,21 @@
 
 
 ## Занятие 2 (Хеши для строк)
- A. ### [A. Равенство подстрок](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
- B. ### [B. Основание строки](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/B/README.md)
+* ### [A. Равенство подстрок](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
+* ### [B. Основание строки](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/B/README.md)
 * ### [C. Z-функция](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/C/README.md)
 * ### [D. Кубики в зеркале](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/D/README.md)
 * ### [E. Подпалиндромы](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/E/README.md)
 
-## c
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/B/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/D/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/E/README.md)
+## Занятие 3 (Кратчайшие пути в графах)
+* ### [A. Дейкстра](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
+* ### [B. Дейкстра с восстановлением пути](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/B/README.md)
+* ### [D. Автобусы в Васюках](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/D/README.md)
+* ### [E. На санях](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/E/README.md)
 
-E# d
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/A/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/B/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/C/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/D/README.md)
-* ### [12](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/E/README.md)
+# Занятие 4 (Перебор и методы его оптимизации)
+* ### [A. Все перестановки заданной длины](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/A/README.md)
+* ### [B. Затерянный мир](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/B/README.md)
+* ### [C. Максимальный разрез](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/C/README.md)
+* ### [D. Простая задача коммивояжера](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/D/README.md)
+* ### [E. Генерация правильных скобочных последовательностей - 2](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/E/README.md)
