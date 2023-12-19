@@ -1,6 +1,6 @@
 # Тренировки по алгоритмам 4.0 от Яндекса
 ![Тренировки](https://habrastorage.org/webt/6p/jo/em/6pjoemykizra4dvuwrljltlnfoe.jpeg)
-
+a
 ## Разминка
 * ### [A. Не минимум на отрезке](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/A/README.md)
 * ### [B. Сложить две дроби](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/B/README.md)
@@ -34,7 +34,7 @@
 * ### [D. Автобусы в Васюках](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/D/README.md)
 * ### [E. На санях](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/0/E/README.md)
 
-# Занятие 4 (Перебор и методы его оптимизации)
+## Занятие 4 (Перебор и методы его оптимизации)
 * ### [A. Все перестановки заданной длины](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/A/README.md)
 * ### [B. Затерянный мир](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/B/README.md)
 * ### [C. Максимальный разрез](https://github.com/st119149/yandex-algorithms-4.0/blob/main/src/4/C/README.md)
